@@ -41,7 +41,7 @@ Three simple scripts written with the intent to be run by a cron job scheduler.
 https://github.com/LoganBresnahan/pihole_cron_scripts
 
 
-## Looking for a community?
+## Feeling alone?
 
 The Block List Project is an independent project with growing support. This is a place to get News, Updates, Support and provide help to grow the project!
 https://www.reddit.com/r/blocklistproject/
